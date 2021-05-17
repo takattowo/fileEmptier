@@ -1,0 +1,9 @@
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\bin\Debug\fileEmptier.exe.config
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\bin\Debug\fileEmptier.exe
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\bin\Debug\fileEmptier.pdb
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\obj\Debug\fileEmptier.Properties.Resources.resources
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\obj\Debug\fileEmptier.csproj.GenerateResource.cache
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\obj\Debug\fileEmptier.csproj.CoreCompileInputs.cache
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\obj\Debug\fileEmptier.exe
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\obj\Debug\fileEmptier.pdb
+C:\Users\pamoo\source\repos\fileEmptier\fileEmptier\obj\Debug\fileEmptier.MainForm.resources
