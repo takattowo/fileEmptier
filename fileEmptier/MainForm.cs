@@ -81,11 +81,14 @@ namespace fileEmptier
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (String.IsNullOrEmpty(txtPath.Text) || String.IsNullOrEmpty(txtTo.Text) || String.IsNullOrEmpty(txtFrom.Text))
+            if (String.IsNullOrEmpty(txtPath.Text) || String.IsNullOrEmpty(txtFrom.Text))
             {
                 MessageBox.Show("Field(s) missing.", "Setence.", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
+            if (String.IsNullOrEmpty(txtTo.Text))
+                txtTo.Text = "";
+
             string to = txtTo.Text;
             string from = txtFrom.Text;
 
